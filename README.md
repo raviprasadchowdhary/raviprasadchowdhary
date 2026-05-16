@@ -59,7 +59,7 @@ Currently open to **QA Engineer / SDET / Automation Engineer** roles in Bangalor
 
 ---
 
-### 🚀 Ravionus — Personal Project
+### 🚀 Ravionus - Personal Project
 
 <a href="https://ravionus.com">
 <img src="https://img.shields.io/badge/Live%20Site-ravionus.com-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -70,14 +70,14 @@ Currently open to **QA Engineer / SDET / Automation Engineer** roles in Bangalor
 
 <br/><br/>
 
-A fully static developer tools and interactive learning platform — built and maintained solo.
+A fully static developer tools and interactive learning platform - built and maintained solo.
 
 | | |
 |---|---|
 | 🧰 **22 utility tools** | Base64, JSON formatter, JWT decoder, QR generator, Regex tester, and more |
 | 🎮 **11 code playgrounds** | Interactive in-browser sandboxes |
 | 📚 **Ravionus Learn** | Quizzes, progress tracking, Canvas-based certificate generation |
-| 🔐 **Firebase Auth + Firestore** | Optional cloud sync — all features accessible without login |
+| 🔐 **Firebase Auth + Firestore** | Optional cloud sync - all features accessible without login |
 | ✅ **1,370+ Playwright tests** | Full E2E coverage across every tool and playground |
 | ⚙️ **GitHub Actions CI/CD** | Path-filtered scheduled smoke and regression runs |
 
@@ -101,7 +101,7 @@ A fully static developer tools and interactive learning platform — built and m
 - 📈 **25%** improvement in test execution efficiency
 - 🐛 **200+** defects reported and resolved including 15+ critical
 - 👥 Mentored **5+ junior testers**
-- 🏆 **Coral Award** recipient — Apr 2025 and Jul 2023
+- 🏆 **Coral Award** recipient - Apr 2025 and Jul 2023
 
 ---
 
