@@ -117,7 +117,7 @@ A fully static developer tools and interactive learning platform — built and m
 
 ### 🎓 Education
 
-**B.E. — Electrical & Electronics Engineering**
+**B.E. - Electrical & Electronics Engineering**
 Sri Jayachamarajendra College of Engineering, JSS Science & Technology University, Mysuru
 `GPA: 8.52 / 10` | `2017 – 2021`
 
