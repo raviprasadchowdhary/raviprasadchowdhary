@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=160&section=header&text=Raviprasad&fontSize=40&fontColor=ffffff&fontAlignY=55&desc=QA%20Engineer%20%7C%20Automation%20%7C%20Playwright&descAlignY=75&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=160&section=header&text=Raviprasad&fontSize=40&fontColor=ffffff&fontAlignY=55&desc=QA%20Engineer%20%7C%20Automation%20Engineer&descAlignY=75&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-QA Engineer with **4+ years** of experience building test frameworks, catching bugs before users do, and making CI/CD pipelines earn their keep. I work across manual, automation, and API testing on US healthcare and enterprise SaaS platforms.
+QA Engineer with **4+ years** of experience building test frameworks, catching bugs before users do, and making CI/CD pipelines earn their keep. I work across manual, automation, and API testing on US healthcare, enterprise SaaS, and learning management systems. Passionate about quality-driven development and continuously expanding my QA toolkit.
 
 Currently open to **QA Engineer / SDET / Automation Engineer** roles in Bangalore, Hyderabad, Pune, or Remote.
 
@@ -56,6 +56,8 @@ Currently open to **QA Engineer / SDET / Automation Engineer** roles in Bangalor
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B6?style=flat-square&logo=google&logoColor=white)
+![MS Copilot](https://img.shields.io/badge/MS%20Copilot-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
