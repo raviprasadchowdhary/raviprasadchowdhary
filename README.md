@@ -94,7 +94,7 @@ A fully static developer tools and interactive learning platform - built and mai
 | 🏢 Company | ⏱️ Experience | 🌐 Domain |
 |---|---|---|
 | Talentica Software | Jun 2026 – Present | Product Engineering / SaaS |
-| Cognizant | Jul 2021 – Jun 2026 | US Healthcare (CA), Enterprise SaaS, LMS |
+| Cognizant | Aug 2021 – Jun 2026 | US Healthcare (CA), Enterprise SaaS, LMS |
 
 </div>
 
