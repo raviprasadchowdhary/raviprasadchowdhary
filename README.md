@@ -143,8 +143,7 @@
 
 **B.E. - Electrical & Electronics Engineering**
 
-Sri Jayachamarajendra College of Engineering  
-JSS Science & Technology University, Mysuru
+Sri Jayachamarajendra College of Engineering, JSS Science & Technology University, Mysuru
 
 📊 **GPA:** 8.52 / 10 | **Period:** 2017 – 2021
 
