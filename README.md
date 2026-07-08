@@ -131,6 +131,7 @@
 ![CCA--F](https://img.shields.io/badge/CCA--F-Claude%20Certified%20Architect%20--%20Foundations-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Scrum Fundamentals](https://img.shields.io/badge/Scrum%20Fundamentals%20Certified-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
 ![HackerRank SQL](https://img.shields.io/badge/SQL%20Basic-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![JavaScript Basic](https://img.shields.io/badge/JavaScript%20Basic-HackerRank-F7DF1E?style=flat-square&logo=hackerrank&logoColor=black)
 ![Google Generative AI](https://img.shields.io/badge/Generative%20AI-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Atlassian Jira](https://img.shields.io/badge/Jira%20Fundamentals-Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white)
 
