@@ -128,9 +128,7 @@
 
 ![Azure Fundamentals](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GitHub Fundamentals](https://img.shields.io/badge/GH--900-GitHub%20Fundamentals-181717?style=flat-square&logo=github&logoColor=white)
-- [Microsoft Certified: GitHub Fundamentals (GH-900)](https://learn.microsoft.com/en-in/users/raviprasadchowdhary/credentials/b4a2e6363344b6c1?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 ![CCA--F](https://img.shields.io/badge/CCA--F-Claude%20Certified%20Architect%20--%20Foundations-D97757?style=flat-square&logo=anthropic&logoColor=white)
-- [Claude Certified Architect - Foundations (CCA-F)](https://verify.skilljar.com/c/y3p2j5j9va38)
 ![Scrum Fundamentals](https://img.shields.io/badge/Scrum%20Fundamentals%20Certified-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
 ![HackerRank SQL](https://img.shields.io/badge/SQL%20Basic-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
 ![Google Generative AI](https://img.shields.io/badge/Generative%20AI-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
