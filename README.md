@@ -21,7 +21,7 @@
 
 > QA Engineer with **4+ years** of hands-on experience building robust test frameworks, catching bugs before users do, and optimizing CI/CD pipelines. I specialize in **end-to-end testing**, **test automation**, and **API testing** across US healthcare, enterprise SaaS, and product engineering domains.
 
-**Currently open to:** QA Engineer / SDET / Automation Engineer roles in **Bangalore, Hyderabad, Pune, or Remote**
+<!--**Currently open to:** QA Engineer / SDET / Automation Engineer roles in **Bangalore, Hyderabad, Pune, or Remote** -->
 
 ---
 
